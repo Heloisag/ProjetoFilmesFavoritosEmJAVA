@@ -1,0 +1,17 @@
+
+Y
+java:S1854
+">Remove this useless assignment to local variable "movieGrade".(õñ‹ûÿÿÿÿ
+O
+java:S1854"9Remove this useless assignment to local variable "movie".(è—¹Û
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ô²ˆ
+E
+java:S1481"*Remove this unused "movie" local variable.(œÆ“Íøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¤†Ÿ
+L
+java:S1481	"6Remove this unused "insertedInThePlan" local variable.(Ûş‡
+J
+java:S1481
+"/Remove this unused "movieGrade" local variable.(õñ‹ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ıÛÎê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÙæÅšúÿÿÿÿ
